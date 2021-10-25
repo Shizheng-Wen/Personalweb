@@ -74,7 +74,7 @@ This work was finished when I was a visiting student at Duke University in 2019 
 
 Here, Prof. Dowell recorded a testimonial video for me. He is the elected member of national academy of engineering and honorary fellow of AIAA. In 2016, he received the highest individual honor for achievement in aeronautics.
 
- <video src="./photo/dowellforshizheng.mp4"></video>
+ <video src="./photo/dowellforshizheng.mp4">
 
 
 
