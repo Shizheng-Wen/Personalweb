@@ -9,7 +9,7 @@ date: "2016-04-27T00:00:00Z"
 external_link: ""
 
 image:
-  caption: 'Bacterial Flagellar Motor by [**Brady Johnston**](https://twitter.com/bradyajohnston/status/1387930467819692032)
+  caption: Bacterial Flagellar Motor by [**Brady Johnston**](https://twitter.com/bradyajohnston/status/1387930467819692032)
   focal_point: Smart
 ---
 
