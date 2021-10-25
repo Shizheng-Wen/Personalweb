@@ -76,5 +76,7 @@ Here, Prof. Dowell recorded a testimonial video for me. He is the elected member
 
 
 
-{{< video library="true" src="{{< video library="true" src="dowellforshizheng.mp4" controls="yes" >}}" controls="yes" >}}
+ <video src="./photo/dowellforshizheng.mp4" controls = "yes"></video>
+
+ <video src="dowellforshizheng.mp4"></video>
 
