@@ -12,7 +12,7 @@ design:
   columns: '1'
 ---
 
-I strive to develop new methods through the fusion of physical models, data-driven algorithms to understand nature and solve problems in science and engineering. See my [Research page](https://shizhengwen.netlify.app/project/). 
+I strive to develop new methods through the fusion of physical models, data-driven algorithms to understand nature and solve problems in science and engineering. See my [Research page](#/project). 
 
 I am currently a research assistant in [INS](http://ins.nuaa.edu.cn/) at [Nanjing University of Aeronautics and Astronautics (NUAA)](http://www.nuaa.edu.cn/). Prior to that, I received my bachelor's degree from Excellent Class of aircraft power engineering at NUAA.
 
