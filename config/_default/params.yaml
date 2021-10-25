@@ -1,13 +1,14 @@
 # SITE SETUP
 # Guide: https://wowchemy.com/docs/getting-started/
 # Documentation: https://wowchemy.com/docs/
+#
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 # Appearance
 
-theme: minimal
-day_night: true
-font: ''
+theme: custom
+day_night: false
+font: rose
 font_size: L
 
 # SEO
@@ -18,42 +19,35 @@ org_name: ''
 description: ''
 twitter: ''
 
-# Contact (edit or remove options as required)
+# Contact
 
-email: test@example.org
-phone: 888 888 88 88
+email: wenshizheng0710@gmail.com
+#phone: 888 888 88 88
+#appointment_url: 'https://calendly.com'
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
-  country_code: US
-coordinates:
-  latitude: '37.4275'
-  longitude: '-122.1697'
-directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-office_hours:
-  - 'Monday 10:00 to 13:00'
-  - 'Wednesday 09:00 to 10:00'
-appointment_url: 'https://calendly.com'
+  street: 29 Yudao Street
+  city: Nanjing
+  region: Jiangsu
+  postcode: '210016'
+  country: China
+  country_code: 86
+  #directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+  #office_hours:
+  #  - 'Monday 10:00 to 13:00'
+  #  - 'Wednesday 09:00 to 10:00'
 contact_links:
-  - icon: twitter
-    icon_pack: fab
-    name: DM Me
-    link: 'https://twitter.com/Twitter'
-  - icon: skype
-    icon_pack: fab
-    name: Skype Me
-    link: 'skype:echo123?call'
-  - icon: keybase
-    icon_pack: fab
-    name: Chat on Keybase
-    link: 'https://keybase.io/'
-  - icon: comments
-    icon_pack: fas
-    name: Discuss on Forum
-    link: 'https://discourse.gohugo.io'
+  #  - icon: twitter
+  #    icon_pack: fab
+  #    name: DM Me
+  #    link: 'https://twitter.com/Twitter'
+    #  - icon: skype
+    #    icon_pack: fab
+    #    name: Skype Me
+    #    link: 'skype:echo123?call'
+    #  - icon: video
+    #    icon_pack: fas
+    #    name: Zoom Me
+    #    link: 'https://zoom.com'
 
 # Site header
 
@@ -74,7 +68,7 @@ address_format: en-us
 
 # Site features
 
-highlight: true
+highlight: false
 highlight_languages:
   - r
 math: false
@@ -87,9 +81,7 @@ edit_page:
   editable:
     page: false
     post: false
-    book: false
 show_related:
-  book: true
   page: false
   post: true
   project: true
@@ -134,24 +126,25 @@ comments:
   commento:
     url: ''
 search:
-  provider: wowchemy
+  provider: ''
   algolia:
     app_id: ''
     api_key: ''
     index_name: ''
     show_logo: false
 map:
-  provider: ''
+  provider: 'mapnik'
   api_key: ''
   zoom: 15
+coordinates:
+  latitude: 32.043568
+  longitude: 118.827136
 marketing:
   google_analytics: ''
   google_tag_manager: ''
   google_site_verification: ''
-  baidu_site_verification: ''
-  baidu_tongji: ''
 cms:
-  branch: master
+  branch: main
   local_backend: false
 icon:
   pack:

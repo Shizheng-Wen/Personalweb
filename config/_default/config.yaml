@@ -3,17 +3,16 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Academic # Website name
-baseurl: 'https://example.com/' # Website URL
-copyright: '' # Footer text, e.g. '© {year} Me'
+title: Shizheng Wen (闻仕政)
+baseurl: 'https://example.com'
+copyright: ''
 
 ############################
 ## LANGUAGE
 ############################
 
-defaultContentLanguage: en
+languageCode: en-us
 hasCJKLanguage: false
-defaultContentLanguageInSubdir: false
 removePathAccents: true
 
 ############################
@@ -37,7 +36,7 @@ enableRobotsTXT: true
 footnotereturnlinkcontents: <sup>^</sup>
 ignoreFiles: [\.ipynb$, .ipynb_checkpoints$, \.Rmd$, \.Rmarkdown$, _cache$]
 permalinks:
-  event: '/talk/:slug/'
+  #event: '/talk/:slug/'
   tags: '/tag/:slug/'
   categories: '/category/:slug/'
   publication_types: '/publication-type/:slug/'
@@ -45,6 +44,8 @@ disableAliases: true
 outputs:
   home: [HTML, RSS, JSON, WebAppManifest, headers, redirects]
   section: [HTML, RSS]
+markup:
+  _merge: deep
 imaging:
   resampleFilter: lanczos
   quality: 75
@@ -55,8 +56,6 @@ taxonomies:
   category: categories
   publication_type: publication_types
   author: authors
-markup:
-  _merge: deep
 related:
   threshold: 80
   includeNewer: true
