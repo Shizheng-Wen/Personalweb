@@ -1,6 +1,6 @@
 ---
 title: Ultra-low Energy Loss in Biomolecular Motor
-summary: In
+summary: I am trying to figure out the underlying mechanism of ~100% efficiency for bacterial flagellar motor
 tags:
 - Biophysics
 date: "2016-04-27T00:00:00Z"
@@ -9,7 +9,7 @@ date: "2016-04-27T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Photo by Toa Heftiba on Unsplash
+  caption: 'Bacterial Flagellar Motor by [**Brady Johnston**](https://twitter.com/bradyajohnston/status/1387930467819692032)
   focal_point: Smart
 ---
 
@@ -25,7 +25,7 @@ Here, I summarized the important milestones of BFM in experiment and theory. If 
 
 ![2](./photo/2.jpg)
 
-Although the bacterial flagellar motor has been studied early, for a long time, detailed modeling efforts have been stymied by the lack of atomic-level structural information. Before 2020, all studies related to structural analysis had been summarized in the review of Liu Jun's group at Yale. In 2020, two important papers that got the atom-level structural information of static in BFM has been published, which is important to help us understand how BFM transform the chemical gradient energy into mechanical energy. But this is not what we focus in this research project. In May 2021, flagellar basal body has been analyzed at the atomic accuracy by cryo-EM. And groups in Zhejiang University and Oxford nearly published their articles at the same time. **And that is the motive of my project. I found this structure very intriguing and may exist some important mechanism. Let's me further explain to you what I am thinking.**
+Although the bacterial flagellar motor has been studied early, for a long time, detailed modeling efforts have been stymied by the lack of atomic-level structural information. Before 2020, all studies related to structural analysis had been summarized in the review of Liu Jun's group at Yale. In 2020, two important papers that got the atom-level structural information of static in BFM has been published, which is important to help us understand how BFM transform the chemical gradient energy into mechanical energy. But this is not what we focus in this research project. In May 2021, flagellar basal body has been analyzed at the atomic accuracy by cryo-EM. And groups in Zhejiang University and Oxford nearly published their articles at the same time. And that is the motive of my project. I found this structure very intriguing and may exist some important mechanisms. Let's me further explain to you what I am thinking.
 
 ![4](./photo/4.jpg)
 
