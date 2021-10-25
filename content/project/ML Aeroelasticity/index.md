@@ -78,5 +78,3 @@ Here, Prof. Dowell recorded a testimonial video for me. He is the elected member
 
  <video src="./photo/dowellforshizheng.mp4" controls = "yes"></video>
 
- <video src="dowellforshizheng.mp4"></video>
-
