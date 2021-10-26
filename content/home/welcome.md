@@ -16,9 +16,9 @@ I strive to develop new methods through the fusion of physical models, data-driv
 
 I am currently a research assistant in [INS](http://ins.nuaa.edu.cn/) at [Nanjing University of Aeronautics and Astronautics (NUAA)](http://www.nuaa.edu.cn/). Prior to that, I received my bachelor's degree from Excellent Class of aircraft power engineering at NUAA.
 
-During my undergraduate period, I was advised by [Prof. Xianglei Liu](https://scholar.google.com/citations?hl=en&user=RxW3otEAAAAJ&view_op=list_works&sortby=pubdate), working on Nanoscale Heat Transfer. During the summer of 2019, I was visiting Duke University, working under the supervision of [Prof. Earl Dowell](https://mems.duke.edu/faculty/earl-dowell) (AIAA Honorary Fellow ) on Machine Learning Assisted Fluid. And he recorded a [testimonial](project/ml-aeroelasticity) for me.
+During my undergraduate period, I was advised by [Prof. Xianglei Liu](https://scholar.google.com/citations?hl=en&user=RxW3otEAAAAJ&view_op=list_works&sortby=pubdate), working on Nanoscale Heat Transfer. During the summer of 2019, I was visiting Duke University, working under the supervision of [Prof. Earl Dowell](https://mems.duke.edu/faculty/earl-dowell) (AIAA Honorary Fellow) on Machine Learning Assisted Fluid, and he recorded a [testimonial video](project/ml-aeroelasticity) for me.
 
-Originally, I was ready to pursue my PhD degree with full scholarship in University of Minnesota, twin cities ([offer](./UMNoffer.pdf)). However, my plan was canceled due to the proclamation 10043 signed by Donald Trump.  Now, I am looking for a PhD position in other countries. 
+Originally, I was ready to pursue my PhD degree with full scholarship in University of Minnesota, twin cities ([offer](./UMNoffer.pdf)). However, my plan was canceled due to the proclamation 10043 signed by Donald Trump. Now, I am looking for a PhD position in other countries. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
 
