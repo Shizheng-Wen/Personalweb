@@ -31,6 +31,8 @@ url_video: ""
 # slides: example
 ---
 
+ ==The testimonial video is at the bottom of this page.== 
+
 In recent years, due to the development of high-performance computations and experimental measurement capabilities. Researchers are able to obtain high precision and high-resolution spatiotemporal data from large-scale fluid simulations and experiments.
 
 At the same time, the advancement of sophisticated algorithms and open source software enables researchers to apply ML to address many challenges. Among them, neural Networks is a powerful tool to simulate nonlinear mapping relationship. Therefore, in fluid mechanics community, turbulence modeling and more generally, nonlinear fluid dynamics has been one proving ground for neural networks. Recent advancements on ML-assisted fluids can see these reviews in Annual Review of Fluid Mechanics:
