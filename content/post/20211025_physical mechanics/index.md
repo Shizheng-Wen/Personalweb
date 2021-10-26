@@ -54,6 +54,6 @@ Having a picture with Prof. Wei Yang:
 
 <img src="./photo/5.jpg" alt="5" style="zoom:100%;" />
 
-Having a picture with Prof. Wei Yang:
+Having a picture with Prof. Yafu Zhao:
 
 <img src="./photo/4.jpg" alt="4" style="zoom:100%;" />
