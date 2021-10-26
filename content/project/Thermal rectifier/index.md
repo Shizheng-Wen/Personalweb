@@ -1,6 +1,6 @@
 ---
 title: Near-field Radiation-based Thermal Rectifiers
-summary: I proposed a thermal rectifer reaching a record-high rectification ration
+summary: I proposed a thermal rectifer reaching a record-high rectification ratio.
 tags:
 - Nanoscale Heat Transfer
 date: "2017-09-27T00:00:00Z"
