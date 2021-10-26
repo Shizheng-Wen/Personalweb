@@ -35,7 +35,7 @@ url_video: ""
 
 In recent years, due to the development of high-performance computations and experimental measurement capabilities. Researchers are able to obtain high precision and high-resolution spatiotemporal data from large-scale fluid simulations and experiments.
 
-At the same time, the advancement of sophisticated algorithms and open source software enables researchers to apply ML to address many challenges. Among them, neural Networks is a powerful tool to simulate nonlinear mapping relationship. Therefore, in fluid mechanics community, turbulence modeling and more generally, nonlinear fluid dynamics has been one proving ground for neural networks. Recent advancements on ML-assisted fluids can see these reviews in Annual Review of Fluid Mechanics:
+At the same time, the advancement of sophisticated algorithms and open source software enables researchers to apply ML to address many challenges. Among them, neural networks is a powerful tool to simulate nonlinear mapping relationship. Therefore, in fluid mechanics community, turbulence modeling and more generally, nonlinear fluid dynamics has been one proving ground for neural networks. Recent advancements on ML-assisted fluids can see these reviews in Annual Review of Fluid Mechanics:
 
 - [Turbulence modeling in the age of data](https://www.annualreviews.org/doi/10.1146/annurev-fluid-010518-040547)
 - [Machine learning for fluid mechanics](https://www.annualreviews.org/doi/abs/10.1146/annurev-fluid-010719-060214)
@@ -66,7 +66,7 @@ The resulting classification accuracy was also near-perfect. These figure shows 
 
 
 
-In summary, a convolutional neural network was trained for a simple identification task and the learned coherent structures used by the model for pattern recognition were then studied for dynamical significance. The coherent structures were found to align with current theories on the nature of high-incidence subsonic buffet flows. In our paper, we have more details to discuss, you can view this paper in my [Publications page](https://shizhengwen.netlify.app/publication/). Currently, this paper is under revision for publication.
+In summary, a convolutional neural network was trained for a simple identification task and the learned coherent structures used by the model for pattern recognition were then studied for dynamical significance. The coherent structures were found to align with current theories on the nature of high-incidence subsonic buffet flows. In our paper, we have more details to discuss, you can view this paper in my [Publications page](publication/duke_2019_mlfluid). Currently, this paper is under revision for publication.
 
 This work was finished when I was a visiting student at Duke University in 2019 Fall, under the advisement of Prof.Earl Dowll and Michale W. Lee.
 
@@ -74,7 +74,7 @@ This work was finished when I was a visiting student at Duke University in 2019 
 
 <img src="./photo/6.jpg" alt="6" style="zoom:40%;" />
 
-Here, Prof. Dowell recorded a testimonial video for me. He is the elected member of national academy of engineering and honorary fellow of AIAA. In 2016, he received the highest individual honor for achievement in aeronautics.
+Here, Prof. Dowell recorded a testimonial video for me. He is the elected member of National Academy of Engineering and honorary fellow of AIAA. He was the former dean of the school of engineering at duke university and former professor at MIT and Princeton. In 2016, he received the highest individual honor for achievement in aeronautics.
 
 
 
