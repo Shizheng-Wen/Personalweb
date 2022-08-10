@@ -10,7 +10,7 @@ authors:
 - Xianglei Liu
 date: "2022-08-10T00:00:00Z"
 doi: ""
-featured: true
+featured: false
 image:
   caption: 'Outline of proposed machine learning strategy. Goal of this workflow is to model the NFRHT/rectification ratio (objective function) between multilayered metamaterials (MM) and nanoparticles (NP), and decide design parameters for the largest value of objective functions'
   focal_point: ""
@@ -28,7 +28,7 @@ tags:
 title: High-performance three-body near-field thermophotovoltaic energy conversion
 url_code: ""
 url_dataset: ""
-url_pdf: publication/Jqsrt_2020_NTPV/JQSRT.pdf
+url_pdf: publication/APL_2022_ML4NF/JQSRT.pdf
 url_poster: ""
 url_project: ""
 url_slides: ""
