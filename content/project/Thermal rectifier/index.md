@@ -1,5 +1,5 @@
 ---
-title: Near-field Radiation-based Thermal Rectifiers
+title: (Finished) Near-field Radiation-based Thermal Rectifiers
 summary: I proposed a thermal rectifer reaching a record-high rectification ratio.
 tags:
 - Nanoscale Heat Transfer

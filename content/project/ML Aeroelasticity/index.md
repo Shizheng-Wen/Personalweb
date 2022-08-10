@@ -1,5 +1,5 @@
 ---
-title: Machine Learning for Aeroelastic Applications
+title: (Finished) Machine Learning for Aeroelastic Applications
 summary: This project applies machine learning for pattern recognition to a subsonic airfoil experiencing buffet at a high incidence angle and a range of Reynolds numbers.
 tags:
 - Fluid Mechanics

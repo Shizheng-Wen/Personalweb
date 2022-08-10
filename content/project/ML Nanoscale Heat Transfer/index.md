@@ -1,5 +1,5 @@
 ---
-title: A Machine Learning Strategy for Modeling and Optimal Design of Near-Field Radiative Heat Transfer
+title: (Finished) A Machine Learning Strategy for Modeling and Optimal Design of Near-Field Radiative Heat Transfer
 summary: We proposed a machine learning assisted frame for modeling and optimal design of problems in near-field radiative heat transfer.
 tags:
 - Nanoscale Heat Transfer
@@ -38,15 +38,13 @@ Currently, NFRHT is facing two fatal obstacles.
 - Traditional methods for calculating near-field radiative heat transfer mainly include accurate scattering matrix theory based on Rigorous Coupled-Wave Analysis (RWCA) and Dyadic green's function. However, these accurate methods often require huge computational costs when calculating the NFRHT of complex structures. Otherwise, approximate solving algorithms including Effective Medium Theory (EMT) and Dipole Approximation (DA), although having high efficiency, can be accurate only when the characteristic length of the microstructure is related to the characteristic wavelength of radiation. Therefore, finding a better strategy incorporating merits of these two methods is very meaningful.
 - Researchers in NFRHT community is always seeking for new materials/structures to further enhance the energy transfer rate by evoking corresponding evanescent modes. Such process of enhancing NFRHT is denoted by ‘direct design’. Although this method is considered feasible and can be solved via simulation, it very often relies on the intuition and expertise of the researcher, ultimately limiting the development of structure for desired radiative properties. Inverse design of system’s structures, i.e. obtaining geometric and physical parameter for the desired solution, has been a promising research focus for recent years.
 
-In this research, by combing artificial neural network, we firstly built a surrogated model for calculating NFRHT. Our results show that both the accuracy and efficiency are very high for this surrogated model. Subsequently, we applied genetic algorithm in our surrogated model and quickly found the optimal parameters for the structure. A schematic of this general procedure can be found in the head picture. 
-
-We considered two representative cases, enhancing the NFRHT between two multilayers and rectification ratio between two nanoparticles, to verify the generalization capability of our approach. __The amazing thing was that we have found some new physics in NFRHT by using our proposed approach.__
+In this work, by combining two data-driven ML methods, viz. artificial neural networks (ANNs) and genetic algorithms (GAs), we propose a flowchart for the modeling and optimal design of near-field thermal devices as shown in the head figure. The adopted workflow is enabled by the following innovative points: first, a sampling method based on Latin hypercube sampling (LHS) and sensitivity analysis (SA) is used for the design parameters of the problem to be studied. These sampled points are calculated with accurate NFRHT method so as to build our training dataset. Second, a surrogate ANN model was trained to construct a functional model from an input feature vector to a corresponding output feature vector, which can be used to predict the NFRHT and rectification ratio of corresponding structures. Finally, GA was applied to the surrogate ANN model to identify the optimal solution for the problem, based on emulating biological evolutionary theories. Detailed description and settings of ANN and GA for this research can see the supplementary material.
 
 <img src="./photo/2.jpg" alt="2" style="zoom:50%;" />
 
 <img src="./photo/4.jpg" alt="4" style="zoom:50%;" />
 
-In the following figure, we compared the accuracy of ANN-surrogated (ANN) model with approximate solving algorithms named EMT. 
+The errors of different testing structures predicted by ANN and effective medium theory (EMT) are shown in the following figure.
 
 <img src="./photo/1.jpg" alt="1" style="zoom:50%;" />
 

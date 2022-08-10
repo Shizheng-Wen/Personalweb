@@ -1,5 +1,5 @@
 ---
-title: Ultra-low Energy Loss in Biomolecular Motor
+title: (Finished) Ultra-low Energy Loss in Biomolecular Motor
 summary: I am trying to figure out the underlying mechanism of ~100% efficiency for bacterial flagellar motor.
 tags:
 - Biophysics
