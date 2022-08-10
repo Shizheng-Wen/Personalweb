@@ -10,7 +10,7 @@ authors:
 - Xianglei Liu
 date: "2022-10-28T00:00:00Z"
 doi: ""
-featured: false
+featured: True
 image:
   caption: 'Outline of proposed machine learning strategy.'
   focal_point: ""
@@ -29,7 +29,7 @@ tags:
 title: A Machine Learning Strategy for Modeling and Optimal Design of Near-field Radiative Heat Transfer
 url_code: ""
 url_dataset: ""
-url_pdf: 
+url_pdf: ""
 url_poster: ""
 url_project: ""
 url_slides: ""

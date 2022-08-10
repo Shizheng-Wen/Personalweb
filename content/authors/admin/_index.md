@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Shizheng Wen (闻仕政)
+title: Shizheng Wen
 
 # Is this the primary user of the site?
 superuser: true
