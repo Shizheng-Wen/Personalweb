@@ -29,7 +29,7 @@ tags:
 title: A Machine Learning Strategy for Modeling and Optimal Design of Near-field Radiative Heat Transfer
 url_code: ""
 url_dataset: ""
-url_pdf: publication/APL_2022_ML4NF/APL_ML4NF.pdf
+url_pdf: 
 url_poster: ""
 url_project: ""
 url_slides: ""
