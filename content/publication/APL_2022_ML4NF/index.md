@@ -10,7 +10,7 @@ authors:
 - Xianglei Liu
 date: "2022-10-28T00:00:00Z"
 doi: ""
-featured: True
+featured: true
 image:
   caption: 'Outline of proposed machine learning strategy.'
   focal_point: ""
