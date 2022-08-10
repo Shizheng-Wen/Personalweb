@@ -19,7 +19,7 @@ image:
   preview_only: false
 projects: []
 publication: '*Journal of Quantitative Spectroscopy & Radiative Transfer, 234*(1-9)'
-publication_short: "JQSRT, 234, _pp. 1-9"
+publication_short: "*J. Quant. Spectrosc. Radiat. Transf.*, 234, _pp. 1-9"
 publication_types:
 - "2"
 publishDate: "2019-05-28T00:00:00Z"

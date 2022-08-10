@@ -18,7 +18,7 @@ image:
   preview_only: false
 projects: []
 publication: '*Journal of Quantitative Spectroscopy & Radiative Transfer, 259*(107411)'
-publication_short: "JQSRT, 259, 107411"
+publication_short: "J. Quant. Spectrosc. Radiat. Transf., 259, 107411"
 publication_types:
 - "2"
 publishDate: "2020-10-29T00:00:00Z"

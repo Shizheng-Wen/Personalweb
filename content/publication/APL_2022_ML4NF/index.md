@@ -17,7 +17,7 @@ image:
   preview_only: false
 projects: []
 publication: '*Applied Physics Letters, 121*(111111)'
-publication_short: "APL, 121"
+publication_short: "*Appl. Phys. Lett.*, 121"
 publication_types:
 - "2"
 publishDate: "2022-08-07T00:00:00Z"
