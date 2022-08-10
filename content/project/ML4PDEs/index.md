@@ -1,5 +1,5 @@
 ---
-title: (Ongoing) Machine learning for Partial Differential Equations
+title: Machine learning for Partial Differential Equations
 summary: I am developing PDEs solver based on graph neural networks and finite element methods 
 tags:
 - ML4PDEs

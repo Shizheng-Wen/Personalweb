@@ -1,5 +1,5 @@
 ---
-title: (Finished) A Machine Learning Strategy for Modeling and Optimal Design of Near-Field Radiative Heat Transfer
+title: A Machine Learning Strategy for Modeling and Optimal Design of Near-Field Radiative Heat Transfer
 summary: We proposed a machine learning assisted frame for modeling and optimal design of problems in near-field radiative heat transfer.
 tags:
 - Nanoscale Heat Transfer

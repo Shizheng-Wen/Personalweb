@@ -25,7 +25,7 @@ publication: "Applied Physics Letters, 121"
 publication_short: "APL, 121"
 publication_types:
 - "2"
-publishDate: "2022-08-12 T00:00:00Z"
+publishDate: "2022-08-12T00:00:00Z"
 #slides: example
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 tags:
