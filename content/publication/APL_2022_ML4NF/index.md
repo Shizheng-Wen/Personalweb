@@ -12,7 +12,7 @@ date: "2022-10-28T00:00:00Z"
 doi: ""
 featured: false
 image:
-  caption: 'Outline of proposed machine learning strategy.'
+  caption: 'Outline of proposed machine learning strategy. Goal of this workflow is to model the NFRHT/rectification ratio (objective function) between multilayered metamaterials (MM) and nanoparticles (NP), and decide design parameters for the largest value of objective functions.'
   focal_point: ""
   preview_only: false
 projects: []
@@ -20,7 +20,7 @@ publication: '*Applied Physics Letters, 121*(xxxxx)'
 publication_short: "APL, 121"
 publication_types:
 - "2"
-publishDate: "2020-10-29T00:00:00Z"
+publishDate: "2022-10-29T00:00:00Z"
 #slides: example
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 tags:
@@ -29,7 +29,7 @@ tags:
 title: A Machine Learning Strategy for Modeling and Optimal Design of Near-field Radiative Heat Transfer
 url_code: ""
 url_dataset: ""
-url_pdf: ""
+url_pdf: publication/APL_2022_ML4NF/APL_ML4NF.pdf
 url_poster: ""
 url_project: ""
 url_slides: ""
