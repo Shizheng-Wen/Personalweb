@@ -1,10 +1,10 @@
 ---
-title: A Machine Learning Strategy for Modeling and Inverse Design of Near-Field Radiative Heat Transfer
-summary: We proposed a machine learning assisted frame for modeling and inverse design of problems in near-field radiative heat transfer.
+title: A Machine Learning Strategy for Modeling and Optimal Design of Near-Field Radiative Heat Transfer
+summary: We proposed a machine learning assisted frame for modeling and optimal design of problems in near-field radiative heat transfer.
 tags:
 - Nanoscale Heat Transfer
 - Machine Learning
-date: "2020-11-27T00:00:00Z"
+date: "2022-08-10 T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -50,6 +50,6 @@ In the following figure, we compared the accuracy of ANN-surrogated (ANN) model 
 
 <img src="./photo/1.jpg" alt="1" style="zoom:50%;" />
 
-Currently, a research paper of this work is under preparation. This work is highly acknowledged by my advisor and helped me win the award of best undergraduate thesis (Top 1%). Hope you will look forward to it.
+Currently, this paper was published by *Applied Physics Letters*. Additionally, this work is highly acknowledged by my advisor and helped me win the award of best undergraduate thesis (Top 1%). 
 
 This work was started when I was still an undergraduate student at NUAA in 2020 Spring, under the advisement of Prof. Xianglei Liu. He is now the vice dean of College of Energy and Power Engineering. He won the Sigma Xi Best Ph.D. Thesis Award in Georgia Institute of Technology (TOP 2%),  Raymond Viskanta Young Scientist Award (1-2 people in the field of thermal radiation every year) and so on.<img src="./photo/7.jpg" alt="7" style="zoom:50%;" />

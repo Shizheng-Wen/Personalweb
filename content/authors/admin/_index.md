@@ -6,15 +6,15 @@ title: Shizheng Wen (闻仕政)
 superuser: true
 
 # Role/position
-role: Bachelor of Engineering
+role: Master Student of Computational Science and Engineering
 
 # Organizations/Affiliations
 organizations:
-- name: Insistute of Nano Science
-  url: "http://ins.nuaa.edu.cn/"
+- name: ETH Zurich
+  url: "http://ethz.ch/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include AI for physics, fluid mechanics, nanoscale heat transfer and biophysics.
+bio: My research interest is AI4Science, especially for dynamical systems, fluid mechanics and nanoscale heat transfer. Additionally, I am an enthusiast for physical and life sciences.
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -35,7 +35,7 @@ social:
   link: https://github.com/Shizheng-Wen
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/WenShizhen
+  link: https://twitter.com/WenShizheng
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/uploads/cv.pdf` and uncomment the lines below.
 - icon: cv

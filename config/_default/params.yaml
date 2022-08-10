@@ -25,12 +25,12 @@ email: wenshizheng0710@gmail.com
 #phone: 888 888 88 88
 #appointment_url: 'https://calendly.com'
 address:
-  street: 29 Yudao Street
-  city: Nanjing
-  region: Jiangsu
-  postcode: '210016'
-  country: China
-  country_code: 86
+  street: Ramistrasse 101
+  city: 8092 Zurich
+  region: 
+  postcode: 
+  country: Switzerland
+  country_code: 41
   #directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
   #office_hours:
   #  - 'Monday 10:00 to 13:00'
@@ -137,8 +137,8 @@ map:
   api_key: ''
   zoom: 15
 coordinates:
-  latitude: 32.043568
-  longitude: 118.827136
+  latitude: 47.37655
+  longitude: 8.54761
 marketing:
   google_analytics: ''
   google_tag_manager: ''

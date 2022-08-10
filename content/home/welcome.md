@@ -14,13 +14,15 @@ design:
 
 I strive to develop new methods through the fusion of physical models, data-driven algorithms to understand nature and solve problems in science and engineering. See my [Research page](project). 
 
-I am currently a research assistant in [INS](http://ins.nuaa.edu.cn/) at [Nanjing University of Aeronautics and Astronautics (NUAA)](http://www.nuaa.edu.cn/). Prior to that, I received my bachelor's degree from Excellent Class of aircraft power engineering at NUAA.
+I am currently a master student in the department of mathematics, ETH Zurich, majoring in computational science and engineering. Additionally, I serve as a research assistant advised by [Prof. Hao Sun](https://gsai.ruc.edu.cn/addons/teacher/index/info.html?user_id=25&ruccode=20210163&ln=en) in Gaoling school of artificial intelligence at Renmin University of China.
 
-During my undergraduate period, I was advised by [Prof. Xianglei Liu](https://scholar.google.com/citations?hl=en&user=RxW3otEAAAAJ&view_op=list_works&sortby=pubdate), working on Nanoscale Heat Transfer. During the summer of 2019, I was visiting Duke University, working under the supervision of [Prof. Earl Dowell](https://mems.duke.edu/faculty/earl-dowell) (AIAA Honorary Fellow) on Machine Learning Assisted Fluid, and he recorded a [testimonial video](project/ml-aeroelasticity) for me.
+Prior to that, I received my bachelor's degree with highest honor (GPA ranking top 1% among 248 students) from Excellent Class of aircraft power engineering at [Nanjing University of Aeronautics and Astronautics (NUAA)](http://www.nuaa.edu.cn/).
 
-Originally, I was ready to pursue my PhD degree with full scholarship in University of Minnesota, twin cities ([offer](./UMNoffer.pdf)). However, my plan was canceled due to the proclamation 10043 signed by Donald Trump. Now, I am looking for a PhD position in other countries. 
+During my undergraduate period, I was advised by [Prof. Xianglei Liu](https://scholar.google.com/citations?hl=en&user=RxW3otEAAAAJ&view_op=list_works&sortby=pubdate), working on Nanoscale Heat Transfer. During the summer of 2019, I was visiting Duke University, working under the supervision of [Prof. Earl Dowell](https://mems.duke.edu/faculty/earl-dowell) (AIAA Honorary Fellow) on Machine Learning Assisted Fluid, and he recorded a [testimonial video](project/ml-aeroelasticity) for me. 
+
+Originally, I was ready to pursue my PhD degree with full scholarship in the United States. I received offers from many prestigious Universities including Duke University, University of Minnesota, twin cities and so on. However, my plan was canceled due to the proclamation 10043 signed by Donald Trump. Therefore, during the period from 2020Fall to 2022Spring), I worked as an independent researcher in the [Insistute of Nano Science (INS)](http://ins.nuaa.edu.cn/) at NUAA, collaborated with distinguished Prof. Wanlin Guo (member of Chinese Academy of Sciences). At INS, my reserch interest spans from condensed matter physics to life sciences. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
 
-**Specialties:** AI for Physics, Nanoscale Heat transfer, Fluid Mechanics, Biophysics
+**Specialties:** AI4PDEs, Graph Neural Network, Fluid Mechanics, Nanoscale Heat Transfer, Biophysics
 
