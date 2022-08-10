@@ -1,5 +1,5 @@
 ---
-title: Recent & Upcoming Talks
+title: Record what I think, learn and experience ...
 cms_exclude: true
 #url: talk
 
