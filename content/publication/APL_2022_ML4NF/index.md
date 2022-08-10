@@ -28,7 +28,7 @@ tags:
 title: High-performance three-body near-field thermophotovoltaic energy conversion
 url_code: ""
 url_dataset: ""
-url_pdf: publication/APL_2022_ML4NF/JQSRT.pdf
+url_pdf: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
