@@ -8,7 +8,7 @@ authors:
 - admin
 - Chunzhuo Dang
 - Xianglei Liu
-date: "2022-7-28T00:00:00Z"
+date: "2022-08-07T00:00:00Z"
 doi: "10.1016/j.jqsrt.2020.107411"
 featured: false
 image:
@@ -20,7 +20,7 @@ publication: '*Applied Physics Letters, 121*(111111)'
 publication_short: "APL, 121"
 publication_types:
 - "2"
-publishDate: "2022-7-29T00:00:00Z"
+publishDate: "2022-08-07T00:00:00Z"
 #slides: example
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 tags:
