@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = git@github.com:Shizheng-Wen/Shizheng-Wen.github.io.git
+	branch = master
