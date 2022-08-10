@@ -12,7 +12,7 @@ date: "2022-10-28T00:00:00Z"
 doi: ""
 featured: false
 image:
-  caption: 'Outline of proposed machine learning strategy. Goal of this workflow is to model the NFRHT/rectification ratio (objective function) between multilayered metamaterials (MM) and nanoparticles (NP), and decide design parameters for the largest value of objective functions.'
+  caption: 'Outline of proposed machine learning strategy.'
   focal_point: ""
   preview_only: false
 projects: []
