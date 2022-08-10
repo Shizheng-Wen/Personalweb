@@ -16,7 +16,7 @@ image:
   focal_point: ""
   preview_only: false
 projects: []
-publication: '*Applied Physics Letters, 121*(xxxxx)'
+publication: '*Applied Physics Letters, 121*(111111)'
 publication_short: "APL, 121"
 publication_types:
 - "2"
