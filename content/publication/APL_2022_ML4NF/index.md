@@ -12,7 +12,7 @@ date: "2022-10-28T00:00:00Z"
 doi: "10.1016/j.jqsrt.2020.107411"
 featured: false
 image:
-  caption: 'Outline of proposed machine learning strategy.'
+  caption: 'Outline of proposed machine learning strategy'
   focal_point: ""
   preview_only: false
 projects: []
