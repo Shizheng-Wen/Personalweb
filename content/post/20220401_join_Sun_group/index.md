@@ -1,5 +1,5 @@
 ---
-title: I join Prof. Hao Sun's Group and work as a research assistant.
+title: I join Prof. Hao Sun's Group and work as a research assistant!
 subtitle:
 
 # Summary for listings and search engines
@@ -9,10 +9,10 @@ summary:
 projects: []
 
 # Date published
-date: "2022-03-01T00:00:00Z"
+date: "2022-04-01T00:00:00Z"
 
 # Date updated
-lastmod: "2021-03-01T00:00:00Z"
+lastmod: "2021-04-01T00:00:00Z"
 
 # Is this an unpublished draft?
 draft: false
@@ -38,8 +38,6 @@ categories:
 - research
 - News
 ---
-
-## Overview
 
 I serve as a research assistant advised by [Prof. Hao Sun](https://gsai.ruc.edu.cn/addons/teacher/index/info.html?user_id=25&ruccode=20210163&ln=en) in Gaoling school of artificial intelligence at Renmin University of China, working on graph neural network (GNN) and partial differential equations (PDEs).
 
