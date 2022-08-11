@@ -1,18 +1,18 @@
 ---
-title: Take part in the 2nd National Symposium on Physical Mechanics
-subtitle: I took part in the 2nd National Symposium on Physical Mechanics for Young Scholars as a conference staff
+title: Application season of 2022 fall for me is over, I decided to go to ETH Zurich to obtain higher degree!
+subtitle: I received many offers from well-known universities in the world.
 
 # Summary for listings and search engines
-summary: I took part in the 2nd National Symposium on Physical Mechanics for Young Scholars as a conference staff
+summary: Offers I received in 2022 fall.
 
 # Link this post with a project
 projects: []
 
 # Date published
-date: "2021-05-15T00:00:00Z"
+date: "2022-03-01T00:00:00Z"
 
 # Date updated
-lastmod: "2021-08-31T00:00:00Z"
+lastmod: "2021-03-01T00:00:00Z"
 
 # Is this an unpublished draft?
 draft: false
@@ -32,28 +32,25 @@ authors:
 - admin
 
 tags:
-- Physical Mechanics
-- Conference
+- Application
 
 categories:
-- Conference
+- Application
 - News
 ---
 
 ## Overview
 
-In May 15th - 16th, 2021, I took part in the 2nd National Symposium on Physical Mechanics for Young Scholars as a conference staff. In this conference, I learnt some recent progressein the field of physical mechanics. 
+In 2022 Fall, I received many offers from prestigious universities as follows:
 
-<img src="./photo/1.jpg" alt="1" style="zoom:100%;" />
+- Master of computational science and engineering, ETH Zurich
+- PhD of mechanical engineering (full scholarship), National University of Singapore
+- Master of mechanical engineering (full scholarship), University of British Columbia
+- Mphil of mechanical engineering (full scholarship), University of Hong Kong
+- Master of mechanical engineering (full scholarship), King Abdullah University of Science and Technology)
+- Master of InterMaths (full scholarship), Erasmus Mundus Programme
+- Master of mechanical engineering, University of Waterloo
+- Master of aeronautics, University of Toronto
 
-<img src="./photo/2.jpg" alt="2" style="zoom:100%;" />
+Also, I really appreciate Prof. Jiarong Hong for giving me the PhD offer of University of Minnesota, two cities again, although I cannot obtain the visa of the USA.
 
-<img src="./photo/3.jpg" alt="3" style="zoom:100%;" />
-
-Having a picture with Prof. Wei Yang:
-
-<img src="./photo/5.jpg" alt="5" style="zoom:100%;" />
-
-Having a picture with Prof. Yafu Zhao:
-
-<img src="./photo/4.jpg" alt="4" style="zoom:100%;" />
