@@ -8,19 +8,19 @@ authors:
 - admin
 - Chunzhuo Dang
 - Xianglei Liu
-date: "2022-08-07T00:00:00Z"
-doi: "10.1016/j.jqsrt.2020.107411"
+date: "2022-08-16T00:00:00Z"
+doi: "10.1063/5.0103363"
 featured: false
 image:
   caption: 'Outline of proposed machine learning strategy'
   focal_point: ""
   preview_only: false
 projects: []
-publication: '*Applied Physics Letters, 121*(111111)'
-publication_short: "*Appl. Phys. Lett.*, 121"
+publication: '*Applied Physics Letters, 121*(071101)'
+publication_short: "*Appl. Phys. Lett.*, **121**, 071101"
 publication_types:
 - "2"
-publishDate: "2022-08-07T00:00:00Z"
+publishDate: "2022-08-16T00:00:00Z"
 #slides: example
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 tags:

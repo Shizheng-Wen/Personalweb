@@ -1,5 +1,5 @@
 ---
-title: My first-author paper has been accepted by Applied Physics Letters!
+title: My first-author paper has been published by Applied Physics Letters!
 subtitle:
 
 # Summary for listings and search engines
@@ -9,10 +9,10 @@ summary:
 projects: []
 
 # Date published
-date: "2022-08-07T00:00:00Z"
+date: "2022-08-16T00:00:00Z"
 
 # Date updated
-lastmod: "2022-08-07T00:00:00Z"
+lastmod: "2022-08-16T00:00:00Z"
 
 # Is this an unpublished draft?
 draft: false
@@ -40,4 +40,6 @@ categories:
 - News
 ---
 
-My first-author paper "A Machine Learning Strategy for Modeling and Optimal Design of Near-field Radiative Heat Transfer" has been accepted by *[Applied Physics Letters](https://aip.scitation.org/journal/apl)*. Thanks for my collaborators!
+My first-author paper "A Machine Learning Strategy for Modeling and Optimal Design of Near-field Radiative Heat Transfer" has been accepted by *[Applied Physics Letters](https://aip.scitation.org/doi/10.1063/5.0103363)*. Thanks for my collaborators!
+
+*Appl. Phys. Lett.* **121**, 071101 (2022)
