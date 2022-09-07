@@ -26,7 +26,7 @@ summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere t
 tags:
 - Nanoscale Heat Transfer
 - Machine Learning
-title: A Machine Learning Strategy for Modeling and Optimal Design of Near-field Radiative Heat Transfer
+title: A machine learning strategy for modeling and optimal design of near-field radiative heat transfer
 url_code: ""
 url_dataset: ""
 url_pdf: publication/APL_2022_ML4NF/APL_ML4NF.pdf
