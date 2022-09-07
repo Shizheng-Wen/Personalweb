@@ -17,7 +17,7 @@ image:
   preview_only: false
 #links:
 #- name: Custom Link
-url: https://arxiv.org/abs/2208.09663
+- url: https://arxiv.org/abs/2208.09663
 #projects:
 #- internal-project
 publication: ""
