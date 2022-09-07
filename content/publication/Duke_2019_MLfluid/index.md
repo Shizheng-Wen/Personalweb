@@ -9,10 +9,10 @@ authors:
 - Kai M. Kruger Bastos
 - Earl H. Dowell
 date: "2021-11-01T00:00:00Z"
-doi: ""
+doi: "https://arxiv.org/abs/2208.09663"
 featured: true
 image:
-  caption: 'Architecture of the conventional CNN employed for buffet flow classification'
+  caption: 'Feature Identification in Complex Fluid Flows by Convolutional Neural Networks'
   focal_point: ""
   preview_only: false
 #links:
