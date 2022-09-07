@@ -17,11 +17,11 @@ image:
   preview_only: false
 #links:
 #- name: Custom Link
-#url: https://arxiv.org/abs/2208.09663
+url: https://arxiv.org/abs/2208.09663
 #projects:
 #- internal-project
 publication: ""
-publication_short: "Preprint, arxiv.org/abs/2208.09663"
+publication_short: "*Preprint*, arxiv.org/abs/2208.09663"
 publication_types:
 - "3"
 publishDate: "2022-08-28T00:00:00Z"
