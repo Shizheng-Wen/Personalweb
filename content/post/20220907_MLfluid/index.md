@@ -1,5 +1,5 @@
 ---
-title: My first-author paper has been published by Applied Physics Letters!
+title: My first-author paper has been posted on the Arxiv!
 subtitle:
 
 # Summary for listings and search engines
@@ -9,10 +9,10 @@ summary:
 projects: []
 
 # Date published
-date: "2022-08-16T00:00:00Z"
+date: "2022-09-01T00:00:00Z"
 
 # Date updated
-lastmod: "2022-08-16T00:00:00Z"
+lastmod: "2022-09-01T00:00:00Z"
 
 # Is this an unpublished draft?
 draft: false
@@ -40,6 +40,4 @@ categories:
 - News
 ---
 
-My first-author paper "A Machine Learning Strategy for Modeling and Optimal Design of Near-field Radiative Heat Transfer" has been accepted by *[Applied Physics Letters](https://aip.scitation.org/doi/10.1063/5.0103363)*. Thanks for my collaborators!
-
-*Appl. Phys. Lett.* **121**, 071101 (2022)
+My first-author paper "Feature Identification in Complex Fluid Flows by Convolutional Neural Networks" has been posted on [Arxiv](https://arxiv.org/abs/2208.09663). Thanks for all my collaborators!
