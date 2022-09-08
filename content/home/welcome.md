@@ -22,7 +22,7 @@ During my undergraduate period, I was advised by [Prof. Xianglei Liu](https://sc
 
 Originally, I was ready to pursue my PhD degree with full scholarship in the United States. I received offers from many prestigious Universities including Duke University, University of Minnesota, twin cities and so on. However, my plan was canceled due to the proclamation 10043 signed by Donald Trump. Therefore, during the period from 2020Fall to 2022Spring, I worked as an independent researcher in the [Insistute of Nano Science (INS)](http://ins.nuaa.edu.cn/) at NUAA, collaborated with distinguished [Prof. Wanlin Guo](http://ins.nuaa.edu.cn/chinese/Members/detail.aspx?id=25) (member of Chinese Academy of Sciences). At INS, my research interest spans from condensed matter physics to life sciences. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}} (updated on Sep. 8, 2022).
 
 **Specialties:** AI4PDEs, Graph Neural Network, Fluid Mechanics, Nanoscale Heat Transfer, Biophysics
 
