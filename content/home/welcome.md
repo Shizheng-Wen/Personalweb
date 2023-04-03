@@ -14,7 +14,7 @@ design:
 
 I strive to develop new methods through the fusion of physical models, data-driven algorithms to understand nature and solve problems in science and engineering. See my [Research page](project). 
 
-I am currently a master student in the department of mathematics, ETH Zurich, majoring in computational science and engineering. Additionally, I serve as a research assistant advised by [Prof. Hao Sun](https://gsai.ruc.edu.cn/addons/teacher/index/info.html?user_id=25&ruccode=20210163&ln=en) in Gaoling school of artificial intelligence at Renmin University of China.
+I am currently a master student in the department of mathematics, ETH Zurich, majoring in computational science and engineering. My advisor is Prof. [Siddhartha Mishra](https://ethz.ch/en/the-eth-zurich/organisation/who-is-who/math/details.MTY2MzQ3.TGlzdC8xOTA3LDE2NjkxMjU2NTE=.html), and I am closely working with [Ben Moseley](https://benmoseley.blog/) and [Mike Yan Michelis](https://www.linkedin.com/in/mike-yan-michelis-669774174/?originalSubdomain=de)!
 
 Prior to that, I received my bachelor's degree with highest honor (GPA ranking top 1% among 248 students) from Excellent Class of aircraft power engineering at [Nanjing University of Aeronautics and Astronautics (NUAA)](http://www.nuaa.edu.cn/).
 
@@ -24,5 +24,5 @@ Originally, I was ready to pursue my PhD degree with full scholarship in the Uni
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}} (updated on Sep. 8, 2022).
 
-**Specialties:** AI4PDEs, Graph Neural Network, Fluid Mechanics, Nanoscale Heat Transfer, Biophysics
+**Specialties:** Scientific Machine Learning, Graph Neural Network, AI4Science
 
