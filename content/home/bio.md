@@ -19,7 +19,8 @@ design:
     # color: navy
     # gradient_start: DarkGreen
     # gradient_end: ForestGreen
-    image: li-yang-5h_dMuX_7RE-unsplash.webp  # Name of image in `static/media/`.
+    #image: li-yang-5h_dMuX_7RE-unsplash.webp  # Name of image in `static/media/`.
+    image: background.jpg
     image_darken: 0.6
     image_size: cover
     image_position: center
