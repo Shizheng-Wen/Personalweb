@@ -14,7 +14,7 @@ organizations:
   url: "http://ethz.ch/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interest is AI4Science, especially for dynamical systems, fluid mechanics and nanoscale heat transfer. Additionally, I am an enthusiast for physical and life sciences.
+bio: My research interests lies on scientific machine learning (SciML) and AI4Science.  Moreover, I am an enthusiast for physics and life sciences.
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -36,6 +36,10 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/WenShizheng
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/shizheng-wen-1599b0184/
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/uploads/cv.pdf` and uncomment the lines below.
 - icon: cv

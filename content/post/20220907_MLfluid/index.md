@@ -9,10 +9,10 @@ summary:
 projects: []
 
 # Date published
-date: "2022-09-01T00:00:00Z"
+date: "2023-14-01T00:00:00Z"
 
 # Date updated
-lastmod: "2022-09-01T00:00:00Z"
+lastmod: "2023-14-01T00:00:00Z"
 
 # Is this an unpublished draft?
 draft: false
@@ -40,4 +40,4 @@ categories:
 - News
 ---
 
-My first-author paper "Feature Identification in Complex Fluid Flows by Convolutional Neural Networks" has been posted on [Arxiv](https://arxiv.org/abs/2208.09663). Thanks for all my collaborators!
+My first-author paper collaborating with Duke University "Feature Identification in Complex Fluid Flows by Convolutional Neural Networks" has been pushed on _Theoretical and Applied Mechanics Letters_. Thanks for all my collaborators!

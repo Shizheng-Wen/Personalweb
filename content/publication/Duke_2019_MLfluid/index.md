@@ -1,5 +1,5 @@
 ---
-abstract: Recent efforts have shown machine learning to be useful for analysis of nonlinear fluid dynamics. Predictive accuracy is often a central motivation for employing neural networks, but the pattern recognition central to the network function is equally valuable for purposes of enhancing our dynamical insight into sometimes confounding dynamics. In this paper, convolutional neural networks (CNNs) were trained to recognize several qualitatively different subsonic buffet flows over a high-incidence airfoil, and a near-perfect accuracy was performed with only a small training dataset. The convolutional kernels and corresponding feature maps, developed by the model with no temporal information provided, identified large-scale coherent structures in agreement with those known to be associated with buffet flows. Sensitivity to hyperparameters including network architecture and convolutional kernel size was explored. One conclusion is that only a small training dataset is necessary, but that smaller kernels are better at coherent structure identification than are larger kernels. An approach named Gradient-weighted Class Activation Mapping (Grad-CAM) was then applied to the trained model to indicate the importance of these feature maps in classification. Sensitivity to hyperparameters including network architecture and convolutional kernel size was also explored, and results show that smaller kernels are better at coherent structure identification than are larger kernels. A long-short term memory CNN was then used to demonstrate that with the inclusion of temporal information, the coherent structures remained qualitatively comparable to those of the conventional CNN and less dynamically significant features were no longer recorded. The coherent structures identified by these models enhance our dynamical understanding of subsonic buffet over high-incidence airfoils over a wide range of Reynolds numbers.
+abstract: Recent advancements have established machine learning's utility in predicting nonlinear fluid dynamics, with predictive accuracy being a central motivation for employing neural networks. However, the pattern recognition central to the network’s function is equally valuable for enhancing our dynamical insight into the complex fluid dynamics. In this paper, a single-layer convolutional neural network (CNN) was trained to recognize three qualitatively different subsonic buffet flows (periodic, quasi-periodic and chaotic) over a high-incidence airfoil, and a near-perfect accuracy was obtained with only a small training dataset. The convolutional kernels and corresponding feature maps, developed by the model with no temporal information provided, identified large-scale coherent structures in agreement with those known to be associated with buffet flows. Sensitivity to hyperparameters including network architecture and convolutional kernel size was also explored. The coherent structures identified by these models enhance our dynamical understanding of subsonic buffet over high-incidence airfoils over a wide range of Reynolds numbers.
 author_notes:
 - Corresponding Author
 - 
@@ -7,9 +7,10 @@ authors:
 - admin
 - Michael W. Lee
 - Kai M. Kruger Bastos
+- Ian Eldridge-Allegra
 - Earl H. Dowell
-date: "2022-08-28T00:00:00Z"
-doi: ""
+date: "2023-11-14T00:00:00Z"
+doi: "https://doi.org/10.1016/j.taml.2023.100482"
 featured: true
 image:
   caption: 'Architecture of the conventional CNN employed for buffet flow classification.'
@@ -21,10 +22,10 @@ image:
 #projects:
 #- internal-project
 publication: ""
-publication_short: "*Preprint*, arxiv.org/abs/2208.09663"
+publication_short: "*TAML*, 100482"
 publication_types:
-- "3"
-publishDate: "2022-08-28T00:00:00Z"
+- "2"
+publishDate: "2023-11-13T00:00:00Z"
 #slides: example
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 tags:

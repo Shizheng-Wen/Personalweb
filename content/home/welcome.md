@@ -14,15 +14,12 @@ design:
 
 I strive to develop new methods through the fusion of physical models, data-driven algorithms to understand nature and solve problems in science and engineering. See my [Research page](project). 
 
-I am currently a master student in the department of mathematics, ETH Zurich, majoring in computational science and engineering. My advisor is Prof. [Siddhartha Mishra](https://ethz.ch/en/the-eth-zurich/organisation/who-is-who/math/details.MTY2MzQ3.TGlzdC8xOTA3LDE2NjkxMjU2NTE=.html), and I am closely working with [Ben Moseley](https://benmoseley.blog/) and [Mike Yan Michelis](https://www.linkedin.com/in/mike-yan-michelis-669774174/?originalSubdomain=de)!
+I am currently a master student in the department of mathematics, ETH Zurich, majoring in computational science and engineering under the advisement of Prof. [Siddhartha Mishra](https://ethz.ch/en/the-eth-zurich/organisation/who-is-who/math/details.MTY2MzQ3.TGlzdC8xOTA3LDE2NjkxMjU2NTE=.html).
 
-Prior to that, I received my bachelor's degree with highest honor (GPA ranking top 1% among 248 students) from Excellent Class of aircraft power engineering at [Nanjing University of Aeronautics and Astronautics (NUAA)](http://www.nuaa.edu.cn/).
+Prior to that, I received my bachelor's degree with highest honor (GPA ranking top 1% among 248 students) from Aerospace Engineering at [Nanjing University of Aeronautics and Astronautics (NUAA)](http://www.nuaa.edu.cn/).
 
-During my undergraduate period, I was advised by [Prof. Xianglei Liu](https://scholar.google.com/citations?hl=en&user=RxW3otEAAAAJ&view_op=list_works&sortby=pubdate), working on Nanoscale Heat Transfer. During the summer of 2019, I was visiting Duke University, working under the supervision of [Prof. Earl Dowell](https://mems.duke.edu/faculty/earl-dowell) (AIAA Honorary Fellow, member of National Academy of Engineering) on Machine Learning Assisted Fluid, and he recorded a [testimonial video](project/ml-aeroelasticity) for me. 
+During my undergraduate period, I was advised by [Prof. Xianglei Liu](https://scholar.google.com/citations?hl=en&user=RxW3otEAAAAJ&view_op=list_works&sortby=pubdate), working on Nanoscale Heat Transfer. During the summer of 2019, I was visiting Duke University, working under the supervision of [Prof. Earl Dowell](https://mems.duke.edu/faculty/earl-dowell). During the period from 2020Fall to 2022Spring, I worked as an independent researcher in the [Insistute of Nano Science (INS)](http://ins.nuaa.edu.cn/) at NUAA, collaborated with distinguished [Prof. Wanlin Guo](http://ins.nuaa.edu.cn/chinese/Members/detail.aspx?id=25). At INS, my research interest is biophysics (Molecular Dynamics). 
 
-Originally, I was ready to pursue my PhD degree with full scholarship in the United States. I received offers from many prestigious Universities including Duke University, University of Minnesota, twin cities and so on. However, my plan was canceled due to the proclamation 10043 signed by Donald Trump. Therefore, during the period from 2020Fall to 2022Spring, I worked as an independent researcher in the [Insistute of Nano Science (INS)](http://ins.nuaa.edu.cn/) at NUAA, collaborated with distinguished [Prof. Wanlin Guo](http://ins.nuaa.edu.cn/chinese/Members/detail.aspx?id=25) (member of Chinese Academy of Sciences). At INS, my research interest spans from condensed matter physics to life sciences. 
+**Specialties:** Scientific Machine Learning, AI4Science
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}} (updated on Sep. 8, 2022).
-
-**Specialties:** Scientific Machine Learning, Graph Neural Network, AI4Science
 
